@@ -28,5 +28,4 @@
 | [Secure Login](https://github.com/arathism/SecureLoginProject) | Brute-force detection login system |
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arathism&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=arathism&theme=radical)
