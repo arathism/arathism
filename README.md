@@ -1,4 +1,12 @@
 # 👋 Hi, I'm Arathi Shekhar Munavalli
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arathi%20Shekhar%20Munavalli&fontSize=50&fontAlignY=35&desc=Final%20Year%20CSE%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arathism&color=blueviolet&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arathishekharmunavalli/)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smarathism@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1d3557?style=for-the-badge&logo=githubpages&logoColor=white)](https://arathism.github.io)
+
 ---
 
 ## 🎓 About Me
@@ -40,6 +48,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arathism&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arathism&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arathism&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=arathism&theme=radical&no-frame=true&row=1&column=7)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arathism&theme=radical&hide_border=true)
+
+---
+
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Top 25 / 250+ teams** @ CodeBharata, IIIT Dharwad (AgriGig)
@@ -56,3 +82,7 @@
 - 💼 **LinkedIn:** [arathishekharmunavalli](https://www.linkedin.com/in/arathishekharmunavalli/)
 - 🌐 **Portfolio:** [arathism.github.io](https://arathism.github.io)
 - 🐱 **GitHub:** [arathism](https://github.com/arathism)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
