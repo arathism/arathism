@@ -1,22 +1,4 @@
 # 👋 Hi, I'm Arathi Shekhar Munavalli
-
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arathi%20Shekhar%20Munavalli&fontSize=50&fontAlignY=35&desc=Final%20Year%20CSE%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=arathism&color=blueviolet&style=for-the-badge" alt="Profile Views" /&gt;
-  &lt;a href="https://www.linkedin.com/in/arathishekharmunavalli/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:smarathism@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://arathism.github.io"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-Live-1d3557?style=for-the-badge&logo=githubpages&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
-
 ---
 
 ## 🎓 About Me
@@ -58,31 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=arathism&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathism&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=arathism&theme=radical&hide_border=true" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=arathism&theme=radical&no-frame=true&row=1&column=7" /&gt;
-&lt;/p&gt;
-
----
-
-## 📈 Contribution Activity
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=arathism&theme=radical&hide_border=true" /&gt;
-&lt;/p&gt;
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Top 25 / 250+ teams** @ CodeBharata, IIIT Dharwad (AgriGig)
@@ -99,9 +56,3 @@
 - 💼 **LinkedIn:** [arathishekharmunavalli](https://www.linkedin.com/in/arathishekharmunavalli/)
 - 🌐 **Portfolio:** [arathism.github.io](https://arathism.github.io)
 - 🐱 **GitHub:** [arathism](https://github.com/arathism)
-
----
-
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /&gt;
-&lt;/p&gt;
