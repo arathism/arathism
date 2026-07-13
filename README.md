@@ -24,31 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=arathism&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathism&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=arathism&theme=radical&hide_border=true" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=arathism&theme=radical&no-frame=true&row=1&column=7" /&gt;
-&lt;/p&gt;
-
----
-
-## 📈 Contribution Graph
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=arathism&theme=radical&hide_border=true" /&gt;
-&lt;/p&gt;
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Top 25 / 250+ teams** @ CodeBharata, IIIT Dharwad (AgriGig)
@@ -67,7 +42,3 @@
 - 🐱 **GitHub:** [arathism](https://github.com/arathism)
 
 ---
-
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /&gt;
-&lt;/p&gt;
