@@ -11,13 +11,13 @@
 
 ## 🎓 About Me
 
-- 🏫 **Final Year CSE Student** @ AGMRCET, Varur · VTU (2023–2027)
-- 🔒 **Cybersecurity Intern** @ Alfido Tech
-- 🗄️ **SQL Intern** @ SystemTron (AICTE & MSME Recognised)
+- 🏫 **Final Year CSE Student** @ AGMRCET, Varur · VTU (2023–Present)
+- 💻 **Web Development Intern** @ The Developers Arena
+- 🚀 **Major Project:** RecruitSmart — AI-powered recruitment platform (4-member team)
 - 🏆 **23rd out of 887 teams** nationally @ YUVA i-Cause 2026 (Team Arohana — SkillBridge)
 - 🥇 **Top 25 / 250+ teams** @ CodeBharata, IIIT Dharwad (AgriGig)
 - 📍 Hubli-Dharwad, Karnataka
-- 🎯 **Actively seeking Full-Time Opportunities & Internships 2026**
+- 🎯 **Actively seeking Full-Time Opportunities & Internships**
 
 ---
 
@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
-| [🌾 AgriGig](https://github.com/arathism/agri-gig-framework) | Sustainable farming micro-gigs platform (Top 25 @ CodeBharata) | Next.js, TypeScript | [Demo](https://agri-gig-framework.vercel.app/) |
+| [🤖 RecruitSmart](https://github.com/arathism/RecruitSmart) | AI-powered recruitment platform with interview simulator, resume checker & ATS scoring (Major Project) | Flask, PostgreSQL, NLP | [Demo](https://recruitsmart-ai.onrender.com/) |
 | [🏆 SkillBridge](https://github.com/arathism/skillsbridge) | Hyperlocal skill marketplace (23rd/887 @ YUVA i-Cause 2026) | HTML, CSS, JS | [Demo](https://arathism.github.io/skillsbridge/) |
 | [🛡️ CyberShield](https://github.com/arathism/CyberShield) | AI-powered cyber threat detection & URL scanner | Python, Flask, HTML | [Demo](https://cybershield-arathi-0dms.onrender.com) |
 | [🖐️ Gesture Analytics](https://github.com/arathism/GestureAnalyticsPlatform) | Hand gesture control system using webcam | Python, OpenCV, MediaPipe | — |
@@ -56,13 +56,15 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arathism&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=arathism&theme=radical&no-frame=true&row=1&column=7)
+![CodeBharata](https://img.shields.io/badge/🥇_CodeBharata-Top_25_of_250+_Teams-b45309?style=for-the-badge)
+![YUVA i-Cause](https://img.shields.io/badge/🏆_YUVA_i--Cause_2026-23rd_of_887_Teams-027a48?style=for-the-badge)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arathism&theme=radical&hide_border=true)
+![Activity Graph](https://github-profiles-insights.vercel.app/api/insight?username=arathism&theme=radical&graph=true&header=true)
 
 ---
 
