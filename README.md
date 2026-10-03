@@ -64,7 +64,7 @@
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-profiles-insights.vercel.app/api/insight?username=arathism&theme=radical&graph=true&header=true)
+<img src="https://ghchart.rshah.org/ff4d94/arathism" alt="Arathi's GitHub contribution chart" width="100%"/>
 
 ---
 
